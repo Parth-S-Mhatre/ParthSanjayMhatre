@@ -4,90 +4,153 @@
 
 I'm a tech enthusiast passionate about pushing the boundaries of AI and machine learning. Currently pursuing my Bachelor's degree in Computer Engineering, I'm exploring the fascinating intersection of robotics and artificial intelligence.
 
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parth-S-Mhatre&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=true" height="150" alt="Parth's GitHub stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Parth-S-Mhatre&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="Top Languages" />
+  
+  [![GitHub followers](https://img.shields.io/github/followers/Parth-S-Mhatre?style=social)](https://github.com/Parth-S-Mhatre)
+  ![Profile views](https://komarev.com/ghpvc/?username=Parth-S-Mhatre&color=blueviolet&style=flat-square)
+  
 </div>
 
 ---
 
-## 📈 Language Usage Across All Repositories
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-S-Mhatre&layout=compact&theme=dracula&count_private=true&hide_border=true&langs_count=10&include_all_commits=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Parth-S-Mhatre&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parth-S-Mhatre&hide_border=true&theme=tokyonight" height="170px"/>
+</div>
+
+---
+
+## 📈 Language & Library Expertise
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-S-Mhatre&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" width="45%" alt="Top Languages"/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Parth-S-Mhatre&theme=tokyonight" width="45%" alt="Coding Activity"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parth-S-Mhatre&theme=dracula" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Parth-S-Mhatre&theme=dracula" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parth-S-Mhatre&theme=tokyonight" width="45%" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Parth-S-Mhatre&theme=tokyonight" width="45%" alt="Most Commit Language"/>
 </div>
 
-<!-- Note: For private repositories, deploy your own instance of github-readme-stats -->
-<!-- 
-To include private repositories in your stats:
-1. Create a personal access token with repo scope at https://github.com/settings/tokens
-2. Deploy your own vercel instance of github-readme-stats (https://github.com/anuraghazra/github-readme-stats)
-3. Set the token as an environment variable in your deployment
-4. Update URLs to point to your deployment
--->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parth-S-Mhatre&theme=tokyonight" width="95%" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🔬 Data Science & ML Libraries I Work With
+
+<div align="center">
+  
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+  ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+  ![Seaborn](https://img.shields.io/badge/Seaborn-%238FB5FF.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+  
+</div>
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" title="Anaconda" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="SQLAlchemy" title="SQLAlchemy" />
+  <table>
+    <tr>
+      <td valign="top" width="33%">
+        <h3 align="center">Programming</h3>
+        <div align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" alt="Python"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="50" alt="Java"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="50" alt="C"/>
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">Data Science</h3>
+        <div align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" width="50" alt="Pandas"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" width="50" alt="NumPy"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" width="50" alt="TensorFlow"/>
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">Tools & Databases</h3>
+        <div align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50" width="50" alt="Anaconda"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="50" alt="MySQL"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="50" width="50" alt="SQLAlchemy"/>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 ML Project Breakdown
+
+<div align="center">
+  <a href="https://github.com/Parth-S-Mhatre?tab=repositories">
+    <img src="https://img.shields.io/badge/Computer%20Vision-30%25-8A2BE2?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/Parth-S-Mhatre?tab=repositories">
+    <img src="https://img.shields.io/badge/NLP-25%25-FF6347?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/Parth-S-Mhatre?tab=repositories">
+    <img src="https://img.shields.io/badge/Data%20Analysis-20%25-4682B4?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/Parth-S-Mhatre?tab=repositories">
+    <img src="https://img.shields.io/badge/Predictive%20Modeling-15%25-3CB371?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/Parth-S-Mhatre?tab=repositories">
+    <img src="https://img.shields.io/badge/Reinforcement%20Learning-10%25-FF8C00?style=for-the-badge"/>
+  </a>
 </div>
 
 ---
 
 ## 🌟 About Me
 
-- 🔭 I'm currently working on machine learning projects that solve real-world problems
-- 🌱 I'm constantly learning about AI, robotics, and advanced programming techniques
-- 💡 I love exploring innovative ideas that push technological boundaries
-- 🤝 I'm looking to collaborate on open-source ML/AI projects
-- 🎯 Goal: Contributing to the advancement of artificial intelligence and robotics
+```python
+class Parth:
+    def __init__(self):
+        self.current_focus = "Machine Learning projects that solve real-world problems"
+        self.learning = ["AI", "Robotics", "Advanced Programming Techniques"]
+        self.passion = "Life is just like Supervised and UnSupervised Learning .If we don't get the labels ,just explore the Patterns Made by our Journey"
+        self.goal = "Contributing to the advancement of artificial intelligence and robotics"
+        self.favorite_libraries = ["NumPy", "Pandas", "TensorFlow", "PyTorch", "Scikit-learn"]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's connect and build something amazing together!")
+
+me = Parth()
+me.say_hi()
+```
 
 ---
 
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://www.instagram.com/parth_s_mhatre?igsh=MWRjZHNveTUyb3dkZA==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <!-- Add more social links as needed -->
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/parth_s_mhatre?igsh=MWRjZHNveTUyb3dkZA==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
----
-
-<p align="center">
-  <i>Let's connect and build something amazing together!</i>
-</p>
-
-![Profile views](https://komarev.com/ghpvc/?username=Parth-S-Mhatre&color=brightgreen)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
